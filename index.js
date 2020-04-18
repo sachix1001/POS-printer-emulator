@@ -4,7 +4,7 @@ const port =  process.env.PORT || 3000;
 
 app.use(express.json());
 
-app.get("/cgi-bin/epos/service.cgi?devid=internalIP&timeout=35000", (req, res) => {
+app.get("/", (req, res) => {
     res.send("Hello World")
 })
 
