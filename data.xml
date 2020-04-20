@@ -1,0 +1,30 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+<s:Body>
+<epos-print xmlns="http://www.epson-pos.com/schemas/2011/03/epos-print">
+<feed/>
+<feed/>
+<feed/>
+<feed/>
+<text dw="1" dh="1" em="1" align="center">REPRINT</text>
+<feed/><feed/><feed/>
+<text align="center" color="color_1" dw="1" dh="0" em="1">Sachi coffee</text>
+<feed/><feed/>
+<text dw="1" em="1" align="left" dh="1">SP-1</text>
+<feed/><feed/>
+<text dw="1" dh="0" em="0">11:52:17</text>
+<feed/>
+<text dw="1">Sachi G</text>
+<feed/><feed/>
+<text dw="0">__________________________________________</text><feed/><feed/>
+<text dw="1" dh="1" em="1">1x Mocha</text>
+<feed/><feed/>
+<text dw="1" dh="1" em="1">1x Macchiato</text><feed/>
+<text dw="0" dh="0" em="0">__________________________________________</text>
+<feed/><feed/>
+<text align="center">2020-04-19 11:52:17</text><feed/><feed/>
+<text align="center">Powered by Kounta.com</text>
+<feed/>
+<cut/>
+</epos-print>
+</s:Body>
+</s:Envelope>
